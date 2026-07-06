@@ -1,0 +1,5 @@
+bin/
+obj/
+*.user
+.claude/settings.local.json
+client/publish/
